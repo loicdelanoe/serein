@@ -17,11 +17,10 @@
     <title>Serein</title>
 </head>
 <body>
-
-<p>Hello world! This is HTML5 Boilerplate.</p>
-
+<h1>Serein</h1>
+<header></header>
+<main></main>
+<footer></footer>
 <script type="module" src="<?= assets('js/main.js') ?>"></script>
-
 </body>
-
 </html>

@@ -1,6 +1,6 @@
 let mix = require('laravel-mix');
 
-mix.sass('resources/scss/main.css', 'public/css')
+mix.sass('resources/scss/main.scss', 'public/css')
     .js('resources/js/main.js', 'public/js')
     .copy('resources/img', 'public/img')
     .options({
